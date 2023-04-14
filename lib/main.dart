@@ -1,6 +1,7 @@
 // ignore_for_file: non_constant_identifier_names
 
 import 'package:flump/movie_model.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
